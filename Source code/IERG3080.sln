@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IERG3080", "IERG3080\IERG3080.csproj", "{A3FC071A-7FFA-4DF8-B7CA-6A8885297C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FC071A-7FFA-4DF8-B7CA-6A8885297C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FC071A-7FFA-4DF8-B7CA-6A8885297C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FC071A-7FFA-4DF8-B7CA-6A8885297C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FC071A-7FFA-4DF8-B7CA-6A8885297C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9003E79-966A-4CBE-941E-152E771C76FE}
+	EndGlobalSection
+EndGlobal
