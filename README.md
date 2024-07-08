@@ -3,7 +3,7 @@ It is a group project in a software engineering course.
 The game is done by me and my fellow groupmates, Brian Law, Kristian Cheng and Andy Chung.
 
 How to use:
-Download and execute the simple-osmos-game.exe
+Download and execute "simple-osmos-game.exe"
 
 How to play:
 There are 3 kinds of orbs, the Sun, the Player(blue orb) and the Enemies(red orb).
